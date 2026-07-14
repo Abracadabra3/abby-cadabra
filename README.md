@@ -12,3 +12,6 @@ Click the link!
 - Custom CSS with pastel colors
 - Sections and a headers bar
 - Title with custom text for the tab bar
+- Rounded text boxes
+- Centered text
+- Resizes to your browser size

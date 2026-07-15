@@ -60,3 +60,12 @@ h2{
     text-align: center;
     margin: 20px auto;
 }
+table, th, td{
+    border: 1px solid black;
+    padding: 1px;
+    width: 80%;
+    margin: 0 auto;
+    table-layout: fixed;
+    background-color: lightskyblue;
+    text-align: center;
+}

@@ -3,7 +3,7 @@ A website advertising a kids magic show.
 
 <img src="images/website.png" alt="Image of the website." style="width:50%; height:auto;">
 
-(demo link coming soon)
+**[Visit the website here!](https://abracadabra3.github.io/abby-cadabra/)**
 
 ## Quickstart
 Click the link!

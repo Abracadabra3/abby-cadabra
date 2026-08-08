@@ -6,7 +6,7 @@ A website advertising a kids magic show.
 **[Visit the website here!](https://abracadabra3.github.io/abby-cadabra/)**
 
 ## Quickstart
-Click the link!
+Click the [link!](https://abracadabra3.github.io/abby-cadabra/)
 
 ## Features
 - Custom CSS with pastel colors

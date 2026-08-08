@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4661589mm"
+   height="8.4666662mm"
+   viewBox="0 0 8.4661588 8.4666662"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="abracadabra3_logo.svg"
+   inkscape:export-filename="abby_cadabra\code\favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="21.820377"
+     inkscape:cx="144.49796"
+     inkscape:cy="-68.605597"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="8.4661589"
+       height="8.4666662"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid"
+       inkscape:label="Abracadabra Blue"
+       gradientTransform="matrix(0.98361024,0,0,0.98361024,1.2618539,0.81938796)">
+      <stop
+         style="stop-color:#60b3f8;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.990388,-49.993899)">
+    <g
+       id="g7">
+      <g
+         id="rect24-8"
+         style="opacity:1">
+        <path
+           id="path3"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:url(#swatch2);stroke-width:0.98361;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           d="m 77.320781,49.993899 a 0.32968501,0.32968501 0 0 0 -0.330392,0.328867 v 7.807406 a 0.32968501,0.32968501 0 0 0 0.330392,0.330392 h 7.807406 a 0.32968501,0.32968501 0 0 0 0.328359,-0.330392 v -7.807406 a 0.32968501,0.32968501 0 0 0 -0.328359,-0.328867 z" />
+      </g>
+      <path
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.55173;stroke-linecap:round;stroke-linejoin:round"
+         d="m 80.59769,50.258481 c 0,0 0.07615,2.041804 -0.428164,2.865404 -0.394543,0.644329 -1.844399,1.317429 -1.844399,1.317429 0,0 1.624284,0.465281 2.173756,1.053946 0.662159,0.70939 1.086877,2.700721 1.086877,2.700721 0,0 0.252439,-2.231914 0.856328,-3.128889 0.393644,-0.584692 1.679721,-1.284492 1.679721,-1.284492 0,0 -1.538506,-0.486852 -2.107885,-1.021006 -0.699156,-0.655906 -1.416234,-2.503113 -1.416234,-2.503113 z"
+         id="path2"
+         sodipodi:nodetypes="cacacacac" />
+    </g>
+  </g>
+</svg>

@@ -3,10 +3,10 @@ A website advertising a kids magic show.
 
 <img src="images/website.png" alt="Image of the website." style="width:50%; height:auto;">
 
-**[Visit the website here!](https://abracadabra3.github.io/abby-cadabra/)**
+**[Visit abby-cadabra.com](https://abby-cadabra.com)**
 
 ## Quickstart
-Click the [link!](https://abracadabra3.github.io/abby-cadabra/)
+Visit [abby-cadabra.com!](https://abby-cadabra.com)
 
 ## Features
 - Custom CSS with pastel colors

@@ -6,7 +6,7 @@ A website advertising a kids magic show.
 **[Visit abby-cadabra.com](https://abby-cadabra.com)**
 
 ## Quickstart
-Visit [abby-cadabra.com!](https://abby-cadabra.com)
+Visit [abby-cadabra.com](https://abby-cadabra.com)!
 
 ## Features
 - Custom CSS with pastel colors

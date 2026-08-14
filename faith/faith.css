@@ -1,0 +1,66 @@
+.thefour{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    background-color: rgb(108, 194, 223);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 100%;
+    text-align: center;
+
+}
+
+.heart{
+    background-color: rgb(223, 108, 108);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 80%;
+    text-align: center;
+
+}
+
+.divide{
+    background-color: rgb(161, 161, 161);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 80%;
+    text-align: center;
+
+}
+
+.jesus{
+    background-color: rgb(242, 255, 147);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 80%;
+    text-align: center;
+
+}
+
+.question{
+    background-color: rgb(134, 199, 157);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 80%;
+    text-align: center;
+
+}
+
+.choice{
+    background-color: rgb(200, 176, 219);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: fit-content;
+    text-align: center;
+}

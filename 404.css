@@ -17,8 +17,6 @@ h1{
     margin: 30px auto;
     width: fit-content;
     text-align: center;
-
-
 }
 
 .text{
@@ -36,26 +34,41 @@ h1{
 
 .image_list{
     background-color: rgb(246, 247, 211);
-    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 70%;
     text-align: center;
 }
 
-.image{
+.image,
+.top{
     background-color: rgb(218, 248, 220);
-    width: 50%;
+    width: 90%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+.top{
+    background-color: rgb(255, 210, 249);
+    width: 80%;
+}
+
 @media (max_width: 600px){body
     {
        font-size: 18;
-       .image{
+       .image_list{
         width: 80%;
        }
     }
 }
 
-@media (min_width: 601px){body{font-size: 30;}}
+@media (min_width: 601px){body{
+    font-size: 30;
+    .image_list{
+        width: 60%;
+    }
+    }
+}

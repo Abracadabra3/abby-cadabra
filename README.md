@@ -9,17 +9,17 @@ A website advertising a kids magic show.
 Visit [abby-cadabra.org](https://abby-cadabra.org)!
 
 ## Features
-- Custom CSS with pastel colors
-- Sections and a headers bar
-- Title with custom text for the tab bar
-- Rounded text boxes
-- Centered text
-- Resizes to your browser size
+- Home page for a kid's magic show
+- Portfolio of combat robot design
+- Page explaining The Four
+- Custom 404 page
+- Working on optimization for mobile and desktop
 
 ## Design decisions
-This is my first time using HTML and CSS, and I am proud of how the website looks. Adding the background image makes the website look way more professional even without changing anything else.
-
-I also added an favicon and title that shows up in the browser to make the website feel more polished.
+While this project started out as a simple, one page website to learn how to use HTML and
+advertise a kids's magic show, it has expanded to be that and a personal portfolio of my
+combat robotics projects and a page to link to from my sticker design explaining
+[The Four](https://thefour.fca.org/).
 
 ## Credits
 I referenced the [W3Schools CSS page](https://www.w3schools.com/Css/default.asp) a lot while making this.

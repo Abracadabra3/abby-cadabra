@@ -8,12 +8,6 @@
 
 }
 
-@media (max_width: 600px){body{
-       font-size: 18;}
-}
-
-@media (min_width: 601px){body{font-size: 24;}}
-
 .image{
     width: 100%;
     height: auto;
@@ -22,8 +16,9 @@
     margin-right: auto;
 }
 
-.ace_of_sharks_v3{
-    background-color: rgb(107, 172, 150);
+.ace_of_sharks_v3,
+.ace_of_sharks_v1,
+.hhh{
     padding: 10px;
     border-radius: 10px;
     margin: 30px auto;
@@ -32,22 +27,29 @@
 
 }
 
+.ace_of_sharks_v3{
+    background-color: rgb(107, 172, 150);
+}
+
 .ace_of_sharks_v1{
     background-color: rgb(103, 141, 206);
-    padding: 10px;
-    border-radius: 10px;
-    margin: 30px auto;
-    width: 50%;
-    text-align: center;
 
 }
 
 .hhh{
     background-color: rgb(196, 128, 175);
-    padding: 10px;
-    border-radius: 10px;
-    margin: 30px auto;
-    width: 50%;
-    text-align: center;
 
 }
+
+@media (max_width: 600px){body{
+       font-size: 18;
+       .ace_of_sharks_v1,
+       .ace_of_sharks_v3,
+       .hhh{
+        width: 80%;
+       }
+
+    }
+}
+
+@media (min_width: 601px){body{font-size: 30;}}

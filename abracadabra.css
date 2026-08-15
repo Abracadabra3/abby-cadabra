@@ -1,3 +1,15 @@
+.navbar{
+    background-color: violet;
+    border: 20px solid violet;
+    word-spacing: 1em;
+    justify-content: space-evenly;
+}
+
+.color{
+    background-color: violet;
+    border-color: violet;
+}
+
 .top{
     background-color: rgb(179, 136, 240);
     width: fit-content;
@@ -12,7 +24,6 @@
 }
 
 @media (min_width: 601px){body{font-size: 30;}}
-
 
 body{
     background-image: url("background.png");

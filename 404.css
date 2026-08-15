@@ -10,6 +10,12 @@
     margin-right: auto;
 }
 
+@media (max_width: 600px){body{
+       font-size: 18;}
+}
+
+@media (min_width: 601px){body{font-size: 24;}}
+
 h1{
     background-color: rgb(107, 172, 150);
     padding: 10px;

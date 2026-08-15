@@ -8,6 +8,12 @@
 
 }
 
+@media (max_width: 600px){body{
+       font-size: 18;}
+}
+
+@media (min_width: 601px){body{font-size: 24;}}
+
 .image{
     width: 100%;
     height: auto;

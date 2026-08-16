@@ -11,9 +11,9 @@
 .image{
     width: 100%;
     height: auto;
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
 }
 
 .ace_of_sharks_v3,
@@ -22,7 +22,7 @@
     padding: 10px;
     border-radius: 10px;
     margin: 30px auto;
-    width: 50%;
+    /* Width defined by @media for desktop vs mobile */
     text-align: center;
 
 }
@@ -41,15 +41,22 @@
 
 }
 
-@media (max_width: 600px){body{
-       font-size: 18;
-       .ace_of_sharks_v1,
-       .ace_of_sharks_v3,
-       .hhh{
+@media (max-width: 600px){
+    body{font-size: 18;}
+    .ace_of_sharks_v1,
+    .ace_of_sharks_v3,
+    .hhh{
         width: 80%;
-       }
-
+        height: auto;
     }
 }
 
-@media (min_width: 601px){body{font-size: 30;}}
+@media (min-width: 601px){
+    body{font-size: 30;}
+    .ace_of_sharks_v1,
+    .ace_of_sharks_v3,
+    .hhh{
+        width: 50%;
+        height: auto;
+    }
+}

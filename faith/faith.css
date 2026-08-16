@@ -6,6 +6,16 @@
     margin-right: auto;
 }
 
+.navbar{
+    background-color: rgb(223, 243, 255);
+    border: 20px solid rgb(223, 243, 255);
+    border-radius: 15px;
+    margin: 20px auto;
+    word-spacing: 5em;
+    text-align: center;
+    width: fit-content;
+}
+
 @media (max_width: 600px){body{
        font-size: 18;}
 }

@@ -8,6 +8,16 @@
 
 }
 
+.navbar{
+    background-color: rgb(215, 174, 255);
+    border: 20px solid rgb(215, 174, 255);
+    border-radius: 15px;
+    margin: 20px auto;
+    text-align: center;
+    width: fit-content;
+    word-spacing: 5em;
+}
+
 .image{
     width: 100%;
     height: auto;

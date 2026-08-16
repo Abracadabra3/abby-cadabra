@@ -2,6 +2,14 @@
     background-color: rgb(255, 225, 225);
 }
 
+.navbar{
+    width: fit-content;
+    border-radius: 15px;
+    margin: 20px auto;
+    background-color: rgb(255, 247, 240);
+    border: 20px solid rgb(255, 247, 240);
+    word-spacing: 5em;
+}
 .video{
     width: 80%;
     height: auto;

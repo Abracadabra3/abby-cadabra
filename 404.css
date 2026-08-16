@@ -41,7 +41,15 @@ h1{
     text-align: center;
 }
 
-.image,
+.image{
+    /* background-color: rgb(218, 248, 220); */
+    width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .top{
     background-color: rgb(218, 248, 220);
     width: 90%;
@@ -56,19 +64,12 @@ h1{
     width: 80%;
 }
 
-@media (max_width: 600px){body
-    {
-       font-size: 18;
-       .image_list{
-        width: 80%;
-       }
-    }
+@media (max-width: 600px){
+    body{font-size: 18;}
+    .image_list{width: 80%;}
 }
 
-@media (min_width: 601px){body{
-    font-size: 30;
-    .image_list{
-        width: 60%;
-    }
-    }
+@media (min-width: 601px){
+    body{font-size: 30;}
+    .image_list{width: 60%;}
 }
